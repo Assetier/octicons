@@ -1,5 +1,18 @@
 # Changelog
 
+## 16.3.0
+
+### Minor Changes
+
+- [#708](https://github.com/primer/octicons/pull/708) [`6933ac3`](https://github.com/primer/octicons/commit/6933ac32f87a2cb5efda4fb74b39d1e6199134ce) Thanks [@Juliusschaeper](https://github.com/Juliusschaeper)! - Added first batch of 16px feed icons:
+  - `feed-discussion`
+  - `feed-heart`
+  - `feed-person`
+  - `feed-repo`
+  - `feed-rocket`
+  - `feed-star`
+  - `feed-tag`
+
 ## 16.2.0
 
 ### Minor Changes
